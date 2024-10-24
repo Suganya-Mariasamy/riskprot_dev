@@ -10,7 +10,8 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",  # Your local development URL
-    "https://riskprotec.vercel.app"  # Your deployed backend URL
+    "https://riskprotec.vercel.app",  # Your deployed backend URL
+    "https://riskprotec-suganya-mariasamy-riskprotec.vercel.app"
 ]
 
 # Add CORS middleware to the app
