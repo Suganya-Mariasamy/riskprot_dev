@@ -42,3 +42,5 @@ uvicorn==0.32.0
 websocket-client==1.8.0
 websockets==13.1
 yarl==1.15.5
+python-dotenv
+flask
